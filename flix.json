@@ -1,4 +1,9 @@
 {
-    "apiUrl" : "https://zflix.zuzutv.info/api/"
+    "apiUrl" : "http://cinemo-admin.semdcaog.com/api/",
+
+	"pushUpdate" : "off",
+
+	"newPackage" : "",
+	"NetworkAds" : "applovin"
 
 }
